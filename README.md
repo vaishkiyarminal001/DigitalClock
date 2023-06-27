@@ -1,15 +1,17 @@
 # DigitalClock
 
+<img align="right" alt="Coding" width="100%" src="/Screenshot%20(959).png">
+
 <h1>Digital Clock</h1>
 
 <h3>This is a simple digital clock web application that displays the current time in hours, minutes, and seconds.</h3>
 
 <h2>Table of Contents</h2>
 
-<i>Features
-Getting Started
-Usage
-Customization
+<i>Features<br>
+Getting Started<br>
+Usage<br>
+Customization<br>
 Contributing</i>
 
 
@@ -28,6 +30,8 @@ Upon opening the index.html file in a web browser, you will see the digital cloc
 You can customize the digital clock by modifying the provided CSS file (style.css). Feel free to change the font styles, colors, or any other CSS properties to match your preferences or the design of your website.
 
 <h3>Contributing</h3>
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.<br>
+
+
 
 Designed and developed with ❤️ by Minal Kumari
